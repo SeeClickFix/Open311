@@ -1,0 +1,11 @@
+== Open311
+
+This is a reference implementation of the Open311 API specification as provided by SeeClickFix (http://seeclickfix.com)
+
+== Specification
+
+The Open311 API spec is a work in progress. Resources can be found:
+
+ - San Francisco Spec (http://wiki.open311.org/San_Francisco#SF_Open_311_API)
+ - SeeClickFix Spec (http://seeclickfix.com/simple_pages/23)
+ - The Open Planning Project hosted Open311 site (http://open311.org)
